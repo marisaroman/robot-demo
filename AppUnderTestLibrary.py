@@ -1,8 +1,3 @@
-# This library is not needed for this demo since the test can just interact with the AppUnderTest directly
-# However, in a real-life scenario, some mechanism for interacting with the app under test will be needed,
-# such as invoking a REST endpoint
-
-
 from AppUnderTest import AppUnderTest
 from operator import itemgetter
 import time
