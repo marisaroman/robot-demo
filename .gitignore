@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Robot report files
+log.html
+output.xml
+report.html
+
