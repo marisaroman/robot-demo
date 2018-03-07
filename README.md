@@ -8,7 +8,7 @@ Robot Framework demo in Python
 
 ## Components
 [AppUnderTest](../master/AppUnderTest.py): Demo app that mocks message publishing and receiving  
-[robot_batch_message_test.robot](../master/robot_batch_message_test.robot): Robot test case file  
+[batch_message_test.robot](../master/batch_message_test.robot): Robot test case file  
 [TestDataLibrary](../master/TestDataLibrary.py): Utilities for test data generation  
 [AppUnderTestLibrary](../master/AppUnderTestLibrary.py): Test fixture that enables Robot test cases to interact with the app under test
 
